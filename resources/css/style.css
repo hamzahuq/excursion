@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.remembers {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+.download {
+  font-family: Verdana;
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.copyright {
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: right;
+  color: gray;
+}
